@@ -110,6 +110,7 @@ Plugins which allow importing other types of files as modules.
 - [html](https://github.com/bdadam/rollup-plugin-html) - Import html files as strings.
 - [hypothetical](https://github.com/Permutatrix/rollup-plugin-hypothetical) - Import modules from a virtual filesystem.
 - [image](https://github.com/rollup/rollup-plugin-image) - Import JPG, PNG, GIF and SVG images.
+- [image-files](https://github.com/bspaulding/rollup-plugin-image-files) - Like rollup-plugin-image, but writes image files to dest instead of inlining base64.
 - [imagemin](https://github.com/malchata/rollup-plugin-imagemin) - Optimize images with [imagemin](https://github.com/imagemin/imagemin).
 - [json](https://github.com/rollup/rollup-plugin-json) - Convert JSON files to ES Modules.
 - [markdown](https://github.com/vijithassar/rollup-plugin-markdown) - Import code from fenced code blocks in Markdown.
